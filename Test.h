@@ -130,7 +130,7 @@ class EmptyInputFileTest: public Test
   }
 };
 
-class ProcessFibTest: public Test
+class FibFeatureTest: public Test
 {
  public:
   

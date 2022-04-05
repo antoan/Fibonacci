@@ -25,7 +25,7 @@ void runTests()
     empty_file.runTest();
 
   // Test case of the feature api.
-  ProcessFibTest fib_feature_test;
+  FibFeatureTest fib_feature_test;
 
   bool result_of_program = result_of_fib_fn && 
     result_of_file_ops && 
